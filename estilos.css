@@ -6,7 +6,8 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: rgba(251, 220, 224, 0.886);
+  /* background-color: rgba(251, 220, 224, 0.886); */
+  background-color: rgb(238, 183, 183);
   margin: 10%;
 }
 
